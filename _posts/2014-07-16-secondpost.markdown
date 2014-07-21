@@ -2,7 +2,7 @@
 layout: post
 title:  "JSON Introduction - Video"
 date:   2014-07-16 20:00:00
-categories: javascript
+categories: javascript, json
 ---
 
 This video is an introduction to JSON and assisted in helping me understanding the purpose of the format. The end examples are done using Python.
