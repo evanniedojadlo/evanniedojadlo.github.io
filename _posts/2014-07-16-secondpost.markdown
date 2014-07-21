@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second post!"
+title:  "JSON Introduction - Video"
 date:   2014-07-16 20:00:00
 categories: javascript
 ---
