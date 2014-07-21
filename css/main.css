@@ -166,6 +166,10 @@ a:visited { color: #205caa; }
 /* Post styles */
 /* ----------------------------------------------------------*/
 
+.post-maintitle {
+  color: #000000;
+}
+
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
