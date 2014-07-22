@@ -3,6 +3,7 @@ require 'rake'
 require 'yaml'
 require 'time'
 #Can I require 'bootstrap' or add a gemfile to the root of the project?
+#Can an actual gemfile be included within the root of the project?
 
 SOURCE = "."
 CONFIG = {
