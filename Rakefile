@@ -2,6 +2,7 @@ require "rubygems"
 require 'rake'
 require 'yaml'
 require 'time'
+#Can I require 'bootstrap' or add a gemfile to the root of the project?
 
 SOURCE = "."
 CONFIG = {
