@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Today I Learned 7/21"
+date:   2014-07-16 20:00:00
+categories: terminal, python
+---
+
+Today I learned about the python server existed. We used the command "python -m SimpleHTTPServer" which generated a local server and allowed us to review the data from our JSON file.
