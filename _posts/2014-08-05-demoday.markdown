@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Demo day - Mangabytes"
+date:   2014-08-05 19:18:16
+categories: rails, projects
+---
+
+Mangabytes - Remaining tasks:
+
+Bundle install - update all existing gems
+
+Finish integrating Action Mailer
+
+Check to ensure accurate version of rails is installed for the project
+
+Fully integrate the tire gem for search
+
+Check the current responsive breakpoints of the site via Emmet Re:View
+
+Ensure that the version of bootstrap-sass works with blueimp gallery
+
+Complete the integration of the blueimp gallery and test it with current images
+
+Resize and migrate current test images to the psql Database, use existing code to post to the page on load
+
+Modify some previous styles such as button color, top banner, etc.
+
+Push to Heroku and github
+
+Test staging against devices for responsiveness
+
+Demo Day: August 20th
+
+
+
