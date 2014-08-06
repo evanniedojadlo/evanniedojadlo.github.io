@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sass - Favorite aspect"
-date:   2014-08-27 19:18:16
+date:   2014-08-05 19:18:00
 categories: sass
 ---
 
