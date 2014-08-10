@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Current enviroment on OSX"
+title:  "Current environment on OSX"
 date:   2014-08-07 19:18:00
 categories: tools, environment
 ---
