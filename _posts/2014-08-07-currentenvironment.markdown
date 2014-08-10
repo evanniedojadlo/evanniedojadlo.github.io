@@ -9,26 +9,25 @@ Current tools and installations within my environment:
 
 Xcode + Xcode Command Line Tools
   
-Home Brew (http://brew.sh/)
+Homebrew [brew.sh](http://brew.sh/)
 
-Sublime Text 3 (http://www.sublimetext.com/3)
-Install Package Manager (https://sublime.wbond.net/installation)
-Install these packages:
+Sublime Text 3 [sublimetext.com](http://www.sublimetext.com/3)
+Current Packages:
 Sidebar Enhancements
 Theme Soda
 Tomorrow Color Schemes
 BeautifyRuby
 
-Postgres (http://postgresapp.com/)
+Postgres [postgresapp.com](http://postgresapp.com/)
 
-RVM (http://rvm.io/rvm/install)
+RVM [rvm.io](http://rvm.io/rvm/install)
 
-Navicat (http://www.navicat.com/)
+Navicat [navicat.com](http://www.navicat.com/)
 
-SizeUp (https://www.irradiatedsoftware.com/sizeup/)
+SizeUp [irradiatedsoftware.com/sizeup](https://www.irradiatedsoftware.com/sizeup/)
 
-Iterm2 (http://www.iterm2.com/)
+Iterm2 [iterm2.com](http://www.iterm2.com/)
 
-Gitx (http://gitx.laullon.com/)
+Gitx [gitx.laullon.com](http://gitx.laullon.com/)
 
-Oh my ZSH (https://github.com/robbyrussell/oh-my-zsh)
+Oh my ZSH [github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
