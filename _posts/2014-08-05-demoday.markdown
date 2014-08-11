@@ -13,7 +13,7 @@ Finish integrating Action Mailer
 
 Check to ensure accurate version of rails is installed for the project
 
-Fully integrate the tire gem for search
+Fully integrate the tire gem for search Note: If tire is not integrated consider taking out the search bar on production until this has been implemented
 
 Check the current responsive breakpoints of the site via Emmet Re:View
 
@@ -28,6 +28,8 @@ Modify some previous styles such as button color, top banner, etc.
 Push to Heroku and github
 
 Test staging against devices for responsiveness
+
+Fix the "Sign up" button, update routes?
 
 Demo Day: August 20th
 
