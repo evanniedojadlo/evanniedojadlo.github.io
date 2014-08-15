@@ -19,4 +19,8 @@ Reloaded the project and noticed some errors returned with the chrome inspector 
 
 I noticed that the large images are not showing within the page layout. No errors are being returned so this could be an environment issue considering I cloned the project from my remote repo. I am going to attempt a rake db:migrate and rake db:seed to resolve.
 
-The rake db:migrate was successfull but the rake db:seed returned "rake aborted! Connection refused - connect(2)" so it looks like a permission error with the database. I am going to try this on the original machine that I created the project on to confirm tomorrow evening.
+The rake db:migrate was successful but the rake db:seed returned "rake aborted! Connection refused - connect(2)" so it looks like a permission error with the database. I am going to try this on the original machine that I created the project on to confirm tomorrow evening.
+
+Update 8/11:
+
+I ended up narrowing down the error to the "tire" gem. I commented out the gem and noted that the error output in the terminal was halved so I cleaned up my model containing related code which ended up resolving the error.
