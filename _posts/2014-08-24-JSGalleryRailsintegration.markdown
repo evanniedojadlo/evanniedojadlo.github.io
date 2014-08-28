@@ -16,6 +16,7 @@ These are the steps that I took:
 3.) Update your asset pipeline so that you're pulling each asset. I updated mine to the following:
 
 application.js
+
 	//= require jquery
 	//= require jquery_ujs
 	//= require turbolinks
@@ -27,6 +28,7 @@ application.js
 	//= require home
 
 application.css.scss
+
  	*= require bootstrap-image-gallery
  	*= require blueimp-gallery
  	*= require blueimp-gallery-indicator
