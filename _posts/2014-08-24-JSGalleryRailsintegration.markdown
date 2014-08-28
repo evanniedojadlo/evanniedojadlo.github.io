@@ -29,9 +29,9 @@ application.js
 
 application.css.scss
 
- 	*= require bootstrap-image-gallery
- 	*= require blueimp-gallery
- 	*= require blueimp-gallery-indicator
+	*= require bootstrap-image-gallery
+	*= require blueimp-gallery
+	*= require blueimp-gallery-indicator
 
 4.) Add the following Gallery JS to your main JS file, I renamed mine to home.js
 
