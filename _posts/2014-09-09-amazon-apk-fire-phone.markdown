@@ -15,8 +15,6 @@ Steps:
 
 3.) On the Fire phone, install the app APK Installer and simply navigate to the native app and install
 
-The downside is that I had to log into an Amazon app which I didn't want to do on a company device.
-
 Hope this helps,
 
 
