@@ -9,24 +9,23 @@ I ran across a simple copy verification test case today that was dying to be aut
 
 Filename: menu_copy_verification.rb
 
-describe 'Login' do
+	describe 'Login' do
 
-  before(:each) do
-    @driver = Selenium::WebDriver.for :firefox
-  end
+	  before(:each) do
+	    @driver = Selenium::WebDriver.for :firefox
+	  end
 
-  after(:each) do
-    @driver.quit
-  end
+	  after(:each) do
+	    @driver.quit
+	  end
 
-  it 'succeeded' do
-    @driver.get 'http://staging server url/'
-    @driver.find_element(id: 'loginEmailInput').send_keys('myemail@domain.com')
-    @driver.find_element(id: 'loginPasswordInput').send_keys('PasswordHere')
-    @driver.find_element(id: 'loginBtn').submit
-  end
-
-end
+	  it 'succeeded' do
+	    @driver.get 'http://staging server url/'
+	    @driver.find_element(id: 'loginEmailInput').send_keys('myemail@domain.com')
+	    @driver.find_element(id: 'loginPasswordInput').send_keys('PasswordHere')
+	    @driver.find_element(id: 'loginBtn').submit
+	  end
+	end
 
 The first step logs in as the user. Once the user is logged in the test assertion identifies updated copy within a drop-down menu which will either pass or fail. 
 
