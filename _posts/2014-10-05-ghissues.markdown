@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Github Issues"
+date:   2014-10-05 19:18:16
+categories: github, projects, jira
+---
+
+I decided on using GitHub issues over both Atlassian JIRA and Pivotal Tracker for maintaining bugs in the MangaBytes web app. I figured that GitHub Issues works for this project because MangaBytes is open source and if anyone wants to contribute they can have at it.
+
+For feature requests and future changes I will continue using my personal Google docs for the project roadmap until I find something better which includes easy collaboration.
+
+If you want to read more about Github issues check it out [here](https://guides.github.com/features/issues/)
