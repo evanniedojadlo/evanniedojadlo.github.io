@@ -1,10 +1,9 @@
 # Site settings
-title: Makersquare Cohort 3 - Blog
+title: The blog of Mobile Tester
 email: evanniedojadlo@gmail.com
-description: "Makersquare Cohort 3 - Front End Development blog"
 baseurl: ""
 url: "http://mobiletester.me"
-twitter_username: evanniedojadlo
+twitter_username: eniedojadlo
 github_username:  evanniedojadlo
 
 # Build settings
