@@ -8,3 +8,5 @@ categories: unix, zsh, rails, RoR
 TIL:
 
 rake routes | grep updates
+
+This command made my life easier when I had to narrow down my routes after adding a new view and route "updates"
