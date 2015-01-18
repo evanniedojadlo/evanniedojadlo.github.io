@@ -5,7 +5,7 @@ date:   2015-01-16 19:18:16
 categories: rails, ruby, refactoring
 ---
 
-I am currently running through the Rails Treehouse tutorial to brush up on RSpec and noticed the following code written in one of the models:
+I am currently burning through the Rails Treehouse tutorial to brush up on RSpec and noticed the following code written in one of the models:
 
 	validates :title, presence: true
 	validates :title, length: { minimum: 3 }
