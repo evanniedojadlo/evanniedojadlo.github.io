@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utilizing Sublime Text via the command line - OS X"
+title:  "Utilizing Sublime Text via the command line in OS X"
 date:   2015-06-15 19:18:16
 categories: shell, zsh, sublimetext, environment
 ---
@@ -26,6 +26,7 @@ The ln command makes links between files and the -s flag makes symbolic links in
 That's it. From here you can test your new command by entering sublime within the shell and you should see the application load.
 
 Sources:
+
 [Olivier Lacan](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
 
 [Explain Shell](http://explainshell.com/)
