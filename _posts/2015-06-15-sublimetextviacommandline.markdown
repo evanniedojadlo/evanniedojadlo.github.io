@@ -17,7 +17,7 @@ First, you want to ensure that Sublime Text currently resides within the Applica
 
 	echo $HOME
 
-This will return the home directory which we will want to navigate into. Once you’re within the home directory you will want to enter the following:
+This should return the home directory location which we will want to navigate into. Once you’re within the home directory you will want to enter the following:
 
 	ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
 
