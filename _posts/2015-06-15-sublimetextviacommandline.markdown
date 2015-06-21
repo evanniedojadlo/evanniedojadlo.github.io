@@ -27,7 +27,7 @@ That's it. From here you can test your new command by entering sublime within th
 
 Sources:
 
-[Olivier Lacan](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
+[Olivier Lacan](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/){:target="_blank"}
 
 [Explain Shell](http://explainshell.com/)
 
