@@ -29,9 +29,9 @@ Sources:
 
 [Olivier Lacan](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/){:target="_blank"}
 
-[Explain Shell](http://explainshell.com/)
+[Explain Shell](http://explainshell.com/) {:target="_blank"}
 
-[Sublime OS X Command Line](http://www.sublimetext.com/docs/3/osx_command_line.html)
+[Sublime OS X Command Line](http://www.sublimetext.com/docs/3/osx_command_line.html) {:target="_blank"}
 
 
 
