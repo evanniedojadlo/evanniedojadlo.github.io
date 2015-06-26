@@ -17,7 +17,7 @@ A project on that Github account (In this example we are using a Rails project)
 
 Setting up TravisCI:
 
-The first thing you will need to do is sign up for a TravisCI account which you can find right [here](https://travis-ci.org){:target="_blank"} from here simply sign in using your Github account.
+The first thing you will need to do is sign up for a TravisCI account which you can find right [here](https://travis-ci.org){:target="_blank"} now sign in using your Github account.
 
 Once you're signed into your account you can select the add button next to "My Repositories" where you will be taken to a page where all of your public repositories are shown. From here you will want to do the following:
 
@@ -25,15 +25,13 @@ Choose your project and set the repository switch to on
 
 Add the .travis.yml file to your project directory and commit this to your repository (This tells travis what to build)
 
-Trigger your first build with a git push and watch your build fail
-
-In depth and .travis.yml setup Documentation can be found [here](http://docs.travis-ci.com/user/getting-started/){:target="_blank"}
+Trigger your first build with a git push and watch your build fail (In depth and .travis.yml setup Documentation can be found [here](http://docs.travis-ci.com/user/getting-started/){:target="_blank"})
 
 
 
 Setting up Coveralls:
 
-Next you will need to sign up for a Coveralls account which you can find right [here](https://coveralls.io) from here simply sign in using your Github account.
+Next you will need to sign up for a Coveralls account which you can find right [here](https://coveralls.io){:target="_blank"} from here simply sign in using your Github account.
 
 Once you're logged into your account you will want to select the "Add Repos" button in the top right corner
 
