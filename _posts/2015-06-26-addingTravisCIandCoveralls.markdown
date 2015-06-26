@@ -1,15 +1,18 @@
 ---
 layout: post
 title:  "Quickly adding Coveralls.io and TravisCI to your Rails project"
-date:   2015-06-15 19:18:16
+date:   2015-06-26 19:18:16
 categories: rails, CI, technicalDebt, environment, ruby, process
 ---
 
 What you're going to need:
 
 [A Github account](https://github.com/){:target="_blank"}
+
 A project on that Github account (In this example we are using a Rails project)
+
 [A TravisCI account](https://travis-ci.org/){:target="_blank"}
+
 [A Coveralls account](https://coveralls.io/){:target="_blank"}
 
 Setting up TravisCI:
