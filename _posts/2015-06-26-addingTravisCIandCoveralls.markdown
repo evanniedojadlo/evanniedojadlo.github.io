@@ -5,7 +5,7 @@ date:   2015-06-26 19:18:16
 categories: rails, CI, technicalDebt, environment, ruby, process
 ---
 
-What you're going to need:
+*What you're going to need:*
 
 [A Github account](https://github.com/){:target="_blank"}
 
@@ -15,7 +15,9 @@ A project on that Github account (In this example we are using a Rails project)
 
 [A Coveralls account](https://coveralls.io/){:target="_blank"}
 
-Setting up TravisCI:
+
+
+*Setting up TravisCI:*
 
 The first thing you will need to do is sign up for a TravisCI account which you can find right [here](https://travis-ci.org){:target="_blank"} now sign in using your Github account.
 
@@ -29,9 +31,9 @@ Trigger your first build with a git push and watch your build fail (In depth and
 
 
 
-Setting up Coveralls:
+*Setting up Coveralls:*
 
-Next you will need to sign up for a Coveralls account which you can find right [here](https://coveralls.io){:target="_blank"} from here simply sign in using your Github account.
+Next you will need to sign up for a Coveralls account which you can find right [here](https://coveralls.io){:target="_blank"} from here simply sign in using your Github.
 
 Once you're logged into your account you will want to select the "Add Repos" button in the top right corner
 
