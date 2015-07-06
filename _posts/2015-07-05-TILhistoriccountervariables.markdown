@@ -14,6 +14,6 @@ So, today I was going over "program flow" in C# with For Loops and had learned t
 Pretty cool.
 
 UPDATE:
-My friend Trevor sent me a link [here](http://stackoverflow.com/questions/4137785/why-are-variables-i-and-j-used-for-counters) {:target="_blank"} as this has been brought up a lot in the past. It looks like the reasoning ultimately came from mathematics, specifically the summation notation (i for the first index, j for the second, etc.) and this was used in FORTRAN which became a habit carried over to other languages.
+My friend Trevor sent me a link [here](http://stackoverflow.com/questions/4137785/why-are-variables-i-and-j-used-for-counters){:target="_blank"} as this has been brought up a lot in the past. It looks like the reasoning ultimately came from mathematics, specifically the summation notation (i for the first index, j for the second, etc.) and this was used in FORTRAN which became a habit carried over to other languages.
 
 [This](http://www.pluralsight.com/courses/csharp-from-scratch){:target="_blank"} Pluralsight course needs to update the additional reasoning behind using those counter variables :) 
