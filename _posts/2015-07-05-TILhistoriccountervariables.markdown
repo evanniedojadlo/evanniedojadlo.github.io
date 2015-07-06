@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL: 7/5 Historic counter variables"
+title:  "TIL: Historic counter variables"
 date:   2015-07-05 19:18:16
 categories: C#, VisualStudio, FORTRAN, Loops
 ---
