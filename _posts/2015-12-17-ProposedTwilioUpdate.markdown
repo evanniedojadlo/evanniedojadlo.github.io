@@ -24,5 +24,5 @@ Other notable favorites:
 
 	<Say voice="Gottfried">Please enter your pin number and then press star.</Say>
 
-[https://www.twilio.com/docs/api/twiml/say](Current documentation which shows the two current voice engines){:target="_blank"}
+[Current documentation which shows the two current voice engines](https://www.twilio.com/docs/api/twiml/say){:target="_blank"}
 
