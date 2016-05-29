@@ -13,7 +13,7 @@ This means that if you’re using Sublime Text and want to open files within the
 
 	sublime
 
-First, you want to ensure that Sublime Text currently resides within the Applications directory. The next step you are going to want to take is hop into shell and enter the following:
+First, you will want to ensure that Sublime Text currently resides within the Applications directory. The next step is to hop into shell and enter the following:
 
 	echo $HOME
 
@@ -29,9 +29,9 @@ Sources:
 
 [Olivier Lacan](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/){:target="_blank"}
 
-[Explain Shell](http://explainshell.com/) {:target="_blank"}
+[Explain Shell](http://explainshell.com/){:target="_blank"}
 
-[Sublime OS X Command Line](http://www.sublimetext.com/docs/3/osx_command_line.html) {:target="_blank"}
+[Sublime OS X Command Line](http://www.sublimetext.com/docs/3/osx_command_line.html){:target="_blank"}
 
 
 
